@@ -1,0 +1,8 @@
+<!--
+ - Created by findletoni on 03/01/2017.
+ -->
+
+<aura:component description="helloLightning">
+    <h1>This is a lightning component</h1>
+    <p>Hello Lightning Component!</p>
+</aura:component>
